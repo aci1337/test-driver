@@ -108,4 +108,5 @@ pk_rw_request in = (pk_rw_request)irp->AssociatedIrp.SystemBuffer;
 
             ObDereferenceObjectWithTag(target_proc, 'tMea');
         }
-        info_size = sizeof(k_rw_request);```
+        info_size = sizeof(k_rw_request);
+```
