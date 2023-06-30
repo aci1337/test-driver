@@ -14,7 +14,7 @@ This driver will allow the user, to:
         blockMouse = FALSE;
 ```
 
-**For this we will use mice_hook, UnblockMouseDpcRoutine, and much more... Functions being avalabile at lines 30724+**
+**For this we can use mice_hook, UnblockMouseDpcRoutine too, and much more... Functions being avalabile at lines 30724+**
 
 2. Block hotkeys
 
